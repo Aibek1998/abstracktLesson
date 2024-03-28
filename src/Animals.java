@@ -50,7 +50,7 @@ public abstract class  Animals {
     @Override
     public String toString() {
         return "name : " + name + "\n" +
-                "age : " + age +
+                "age : " + age +"\n"+
                 "gender : " + gender + "\n" +
                 "nickName : " + nickName + "\n";
     }

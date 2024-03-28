@@ -5,6 +5,6 @@ public class Sheep extends Animals{
 
     @Override
     public String toString() {
-        return "Sheep : "+"\n"+super.toString();
+        return "\n"+super.toString();
     }
 }

@@ -5,6 +5,6 @@ public class Cow extends Animals{
 
     @Override
     public String toString() {
-        return "Cow : "+"\n"+super.toString();
+        return "\n"+super.toString()+"\n";
     }
 }
